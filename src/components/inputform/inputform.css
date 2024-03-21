@@ -1,0 +1,53 @@
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: row;
+    
+   display: inline-block;
+    gap: 40PX;
+    margin-left: 30%;
+    font-size: 30px;
+    border: 2px solid white;
+  padding: 10px;
+  display: inline-block;
+  margin: 5px;
+  border-radius: 20px;
+  color: white;
+} 
+.days-label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+   color: white;
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    
+}
+
+.date{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    color: white;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

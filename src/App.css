@@ -1,0 +1,6 @@
+body{
+    background: rgba(230, 12, 238, 0.897);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
+
+}
